@@ -78,7 +78,7 @@ section.imagem > p {
 }
 
 #img01 {
-    position: 100vh;
+    
     background-image: url(imagens/background001.jpg);
     background-position: right center;
     background-size: cover;
@@ -86,7 +86,7 @@ section.imagem > p {
 }
 
 #img02 {
-    position: 100vh;
+   
     background-image: url(imagens/background002.jpg);
     background-position: right center;
     background-size: cover;
